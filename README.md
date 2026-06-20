@@ -15,6 +15,6 @@ I build small projects for fun, nothing serious, just enjoying the process.
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slashury-dev&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slashury-dev&layout=compact&hide_border=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashury-dev&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashury-dev&hide_border=true&theme=dark)
